@@ -10,7 +10,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
-using IdexApp.Models;
+using IdexApp.DAL.Models;
 using IdexApp.Models.ManageViewModels;
 using IdexApp.Services;
 
